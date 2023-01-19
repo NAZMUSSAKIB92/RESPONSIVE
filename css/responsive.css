@@ -1,0 +1,105 @@
+/*css media queries start*/
+/* 
+  ##Device = Most of the Smartphones Mobiles Galaxy Fold (Portrait)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px){
+
+/*css start	*/
+
+
+/*css end	*/
+
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  /*global css start*/
+.container{
+	width: 90%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left ;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+/*global css end*/
+.logo{
+width: 100%;
+display: block;
+text-align: center;
+}
+/*css end  */
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+ /* CSS */
+   /*global css start*/
+.container{
+	width: 90%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left ;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+/*global css end*/
+.logo{
+width: 100%;
+display: block;
+text-align: center;
+}
+/*css end  */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+ /* CSS */
+  
+/*css end  */
+}
